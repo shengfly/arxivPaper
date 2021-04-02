@@ -4,3 +4,4 @@
 - Perceiver: General Perception with Iterative Attention [`paper`](https://arxiv.org/pdf/2103.03206.pdf)
 - Trends and Focus of Machine Learning Applications for Health Research [`paper`](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2753523)
 - Going deeper with Image Transformers [`paper`](https://arxiv.org/pdf/2103.17239.pdf)
+- Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers
