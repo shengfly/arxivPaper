@@ -3,3 +3,4 @@
 - Predicting brain-age from raw T1-weighted Magnetic Resonance Imaging data using 3D Convolutional Neural Networks [`paper`](https://arxiv.org/pdf/2103.11695.pdf)
 - Perceiver: General Perception with Iterative Attention [`paper`](https://arxiv.org/pdf/2103.03206.pdf)
 - Trends and Focus of Machine Learning Applications for Health Research [`paper`](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2753523)
+- Going deeper with Image Transformers [`paper`](https://arxiv.org/pdf/2103.17239.pdf)
