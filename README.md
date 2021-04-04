@@ -6,4 +6,4 @@
 - Going deeper with Image Transformers [`paper`](https://arxiv.org/pdf/2103.17239.pdf)
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers
 - An Image is Worth 16x16 Words, What is a Video Worth?[`paper`](https://arxiv.org/pdf/2103.13915.pdf)
-- CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification [`paper`]https://arxiv.org/pdf/2103.14899.pdf
+- CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification [`paper`](https://arxiv.org/pdf/2103.14899.pdf)
