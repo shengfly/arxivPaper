@@ -9,3 +9,4 @@
 - CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification [`paper`](https://arxiv.org/pdf/2103.14899.pdf)[`github`](https://github.com/rishikksh20/CrossViT-pytorch)
 - CvT: Introducing Convolutions to Vision Transformers [`paper`](https://arxiv.org/pdf/2103.15808.pdf)
 - Training Deep Capsule Networks with Residual Connections [`paper`](https://arxiv.org/pdf/2104.07393.pdf)
+- Multi-Modal Fusion Transformer for End-to-End Autonomous Driving [`paper`](https://arxiv.org/pdf/2104.09224.pdf)
