@@ -11,3 +11,4 @@
 - Training Deep Capsule Networks with Residual Connections [`paper`](https://arxiv.org/pdf/2104.07393.pdf)
 - Multi-Modal Fusion Transformer for End-to-End Autonomous Driving [`paper`](https://arxiv.org/pdf/2104.09224.pdf)
 - Activate or Not: Learning Customized Activation [`paper`](https://arxiv.org/pdf/2009.04759.pdf)
+- Loss odyssey in medical image segmentation [`paper`](https://www.sciencedirect.com/science/article/pii/S1361841521000815)
