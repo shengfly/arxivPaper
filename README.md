@@ -13,3 +13,6 @@
 - Activate or Not: Learning Customized Activation [`paper`](https://arxiv.org/pdf/2009.04759.pdf)
 - Loss odyssey in medical image segmentation [`paper`](https://www.sciencedirect.com/science/article/pii/S1361841521000815)
 - Medical Transformer: Universal Brain Encoder for 3D MRI Analysis[`paper`](https://arxiv.org/pdf/2104.13633.pdf)
+
+# Face Aging
+-Continuous Face Aging via Self-estimated Residual Age Embedding[`paper`](https://arxiv.org/pdf/2105.00020.pdf)
