@@ -1,5 +1,6 @@
 # arxiv Interested Paper
 - Is Medical Chest X-ray Data Anonymous? [`paper`](https://arxiv.org/pdf/2103.08562.pdf)
+- Reading Race: AI Recognises Patient's Racial Identity In Medical Images [`paper`](https://arxiv.org/pdf/2107.10356.pdf)
 - Predicting brain-age from raw T1-weighted Magnetic Resonance Imaging data using 3D Convolutional Neural Networks [`paper`](https://arxiv.org/pdf/2103.11695.pdf)
 - Perceiver: General Perception with Iterative Attention [`paper`](https://arxiv.org/pdf/2103.03206.pdf)
 - Trends and Focus of Machine Learning Applications for Health Research [`paper`](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2753523)
