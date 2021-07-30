@@ -17,7 +17,8 @@
 
 # Face Aging
 -Continuous Face Aging via Self-estimated Residual Age Embedding[`paper`](https://arxiv.org/pdf/2105.00020.pdf)
-- How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation[`paper`](http://proceedings.mlr.press/v139/akbari21a/akbari21a.pdf)
+-How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation[`paper`](http://proceedings.mlr.press/v139/akbari21a/akbari21a.pdf)
+-Delving into Deep Imbalanced Regression[`paper`](http://proceedings.mlr.press/v139/yang21m/yang21m.pdf)
 
 # Others
 -What social media told us in the time of COVID-19: a scoping review[`paper`](https://www.thelancet.com/action/showPdf?pii=S2589-7500%2820%2930315-0)
