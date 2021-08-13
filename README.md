@@ -26,5 +26,8 @@
 # Face aging
 - Ranking [`paper code`](https://paperswithcode.com/paper/consistent-rank-logits-for-ordinal-regression)
 
+# Brain aging
+- Voxel-level Importance Maps for Interpretable Brain Age Estimation [`paper`](https://arxiv.org/pdf/2108.05388.pdf)
+
 # Interpreting
 - Towards Interpretable Deep Networks for Monocular Depth Estimation [`paper`](https://arxiv.org/pdf/2108.05312v1.pdf)
