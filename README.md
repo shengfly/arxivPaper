@@ -31,3 +31,6 @@
 
 # Interpreting
 - Towards Interpretable Deep Networks for Monocular Depth Estimation [`paper`](https://arxiv.org/pdf/2108.05312v1.pdf)
+
+# segmentation
+- SCS-Net: A Scale and Context Sensitive Network for Retinal Vessel Segmentation
