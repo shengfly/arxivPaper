@@ -15,6 +15,7 @@
 - Loss odyssey in medical image segmentation [`paper`](https://www.sciencedirect.com/science/article/pii/S1361841521000815)
 - Medical Transformer: Universal Brain Encoder for 3D MRI Analysis[`paper`](https://arxiv.org/pdf/2104.13633.pdf)
 - Dynamic Attentive Graph Learning for Image Restoration [`paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Mou_Dynamic_Attentive_Graph_Learning_for_Image_Restoration_ICCV_2021_paper.pdf)
+- CAN AN IMAGE CLASSIFIER SUFFICE FOR ACTION RECOGNITION? [`paper`](https://openreview.net/pdf?id=qhkFX-HLuHV)
 
 # Face Aging
 - Continuous Face Aging via Self-estimated Residual Age Embedding[`paper`](https://arxiv.org/pdf/2105.00020.pdf)
