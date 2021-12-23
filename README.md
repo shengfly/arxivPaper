@@ -17,8 +17,11 @@
 - Dynamic Attentive Graph Learning for Image Restoration [`paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Mou_Dynamic_Attentive_Graph_Learning_for_Image_Restoration_ICCV_2021_paper.pdf)
 - CAN AN IMAGE CLASSIFIER SUFFICE FOR ACTION RECOGNITION? [`paper`](https://openreview.net/pdf?id=qhkFX-HLuHV)
 - Dynamics of Disruption in Science and Technology [`paper`](https://arxiv.org/pdf/2106.11184v1.pdf)
+
+# Transformer
 - DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification [`paper`](https://papers.nips.cc/paper/2021/file/747d3443e319a22747fbb873e8b2f9f2-Paper.pdf)
 - Glance-and-Gaze Vision Transformer [`paper`](https://papers.nips.cc/paper/2021/file/6c524f9d5d7027454a783c841250ba71-Paper.pdf)
+- ResT: An Efficient Transformer for Visual Recognition[`paper`](https://papers.nips.cc/paper/2021/file/82c2559140b95ccda9c6ca4a8b981f1e-Paper.pdf)
 
 # Face Aging
 - Continuous Face Aging via Self-estimated Residual Age Embedding[`paper`](https://arxiv.org/pdf/2105.00020.pdf)
