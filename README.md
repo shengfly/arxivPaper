@@ -22,6 +22,7 @@
 - DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification [`paper`](https://papers.nips.cc/paper/2021/file/747d3443e319a22747fbb873e8b2f9f2-Paper.pdf)
 - Glance-and-Gaze Vision Transformer [`paper`](https://papers.nips.cc/paper/2021/file/6c524f9d5d7027454a783c841250ba71-Paper.pdf)
 - ResT: An Efficient Transformer for Visual Recognition[`paper`](https://papers.nips.cc/paper/2021/file/82c2559140b95ccda9c6ca4a8b981f1e-Paper.pdf)
+- Focal Attention for Long-Range Interactions in Vision Transformers [`paper`](https://papers.nips.cc/paper/2021/file/fc1a36821b02abbd2503fd949bfc9131-Paper.pdf)
 
 # Face Aging
 - Continuous Face Aging via Self-estimated Residual Age Embedding[`paper`](https://arxiv.org/pdf/2105.00020.pdf)
