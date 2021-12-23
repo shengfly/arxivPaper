@@ -18,6 +18,8 @@
 - CAN AN IMAGE CLASSIFIER SUFFICE FOR ACTION RECOGNITION? [`paper`](https://openreview.net/pdf?id=qhkFX-HLuHV)
 - Dynamics of Disruption in Science and Technology [`paper`](https://arxiv.org/pdf/2106.11184v1.pdf)
 
+- Glance-and-Gaze Vision Transformer [`paper`](https://papers.nips.cc/paper/2021/file/6c524f9d5d7027454a783c841250ba71-Paper.pdf)
+
 # Face Aging
 - Continuous Face Aging via Self-estimated Residual Age Embedding[`paper`](https://arxiv.org/pdf/2105.00020.pdf)
 - How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation[`paper`](http://proceedings.mlr.press/v139/akbari21a/akbari21a.pdf)
