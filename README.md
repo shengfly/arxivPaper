@@ -18,7 +18,7 @@
 - CAN AN IMAGE CLASSIFIER SUFFICE FOR ACTION RECOGNITION? [`paper`](https://openreview.net/pdf?id=qhkFX-HLuHV)
 - Dynamics of Disruption in Science and Technology [`paper`](https://arxiv.org/pdf/2106.11184v1.pdf)
 - R-Drop: Regularized Dropout for Neural Networks
-
+- Attention Bottlenecks for Multimodal Fusion
 
 # Transformer
 - DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification [`paper`](https://papers.nips.cc/paper/2021/file/747d3443e319a22747fbb873e8b2f9f2-Paper.pdf)
