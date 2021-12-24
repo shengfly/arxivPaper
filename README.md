@@ -17,6 +17,8 @@
 - Dynamic Attentive Graph Learning for Image Restoration [`paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Mou_Dynamic_Attentive_Graph_Learning_for_Image_Restoration_ICCV_2021_paper.pdf)
 - CAN AN IMAGE CLASSIFIER SUFFICE FOR ACTION RECOGNITION? [`paper`](https://openreview.net/pdf?id=qhkFX-HLuHV)
 - Dynamics of Disruption in Science and Technology [`paper`](https://arxiv.org/pdf/2106.11184v1.pdf)
+- R-Drop: Regularized Dropout for Neural Networks
+
 
 # Transformer
 - DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification [`paper`](https://papers.nips.cc/paper/2021/file/747d3443e319a22747fbb873e8b2f9f2-Paper.pdf)
