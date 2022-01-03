@@ -26,6 +26,7 @@
 - ResT: An Efficient Transformer for Visual Recognition[`paper`](https://papers.nips.cc/paper/2021/file/82c2559140b95ccda9c6ca4a8b981f1e-Paper.pdf)
 - Focal Attention for Long-Range Interactions in Vision Transformers [`paper`](https://papers.nips.cc/paper/2021/file/fc1a36821b02abbd2503fd949bfc9131-Paper.pdf)
 - CrossFormer: A VERSATILE VISION TRANSFORMER HINGING ON CROSS-SCALE ATTENTION [`paper`](https://arxiv.org/pdf/2108.00154.pdf?ref=https://githubhelp.com)[`code`](https://github.com/cheerss/CrossFormer)
+- Dynamic Grained Encoder for Vision Transformers [`paper`](https://openreview.net/pdf?id=gnAIV-EKw2)
 
 # Face Aging
 - Continuous Face Aging via Self-estimated Residual Age Embedding[`paper`](https://arxiv.org/pdf/2105.00020.pdf)
