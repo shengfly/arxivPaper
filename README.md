@@ -37,6 +37,7 @@
 
 # Others
 -What social media told us in the time of COVID-19: a scoping review[`paper`](https://www.thelancet.com/action/showPdf?pii=S2589-7500%2820%2930315-0)
+-Partial success in closing the gap between human and machine vision [`paper`](https://openreview.net/pdf?id=QkljT4mrfs)
 
 # Face aging
 - Ranking [`paper code`](https://paperswithcode.com/paper/consistent-rank-logits-for-ordinal-regression)
