@@ -28,6 +28,7 @@
 - CrossFormer: A VERSATILE VISION TRANSFORMER HINGING ON CROSS-SCALE ATTENTION [`paper`](https://arxiv.org/pdf/2108.00154.pdf?ref=https://githubhelp.com)[`code`](https://github.com/cheerss/CrossFormer)
 - Dynamic Grained Encoder for Vision Transformers [`paper`](https://openreview.net/pdf?id=gnAIV-EKw2)
 - Efficient Training of Visual Transformers with Small Datasets [`paper`](https://openreview.net/pdf?id=SCN8UaetXx)
+- Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition [`paper`](https://papers.nips.cc/paper/2021/file/64517d8435994992e682b3e4aa0a0661-Paper.pdf)
 
 # Face Aging
 - Continuous Face Aging via Self-estimated Residual Age Embedding[`paper`](https://arxiv.org/pdf/2105.00020.pdf)
