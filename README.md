@@ -19,6 +19,7 @@
 - Dynamics of Disruption in Science and Technology [`paper`](https://arxiv.org/pdf/2106.11184v1.pdf)
 - R-Drop: Regularized Dropout for Neural Networks
 - Attention Bottlenecks for Multimodal Fusion [`paper`](https://arxiv.org/pdf/2107.00135.pdf)
+- Perceptual Score: What Data Modalities Does Your Model Perceive?[`paper`](https://papers.nips.cc/paper/2021/file/b51a15f382ac914391a58850ab343b00-Paper.pdf)
 
 # Transformer
 - DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification [`paper`](https://papers.nips.cc/paper/2021/file/747d3443e319a22747fbb873e8b2f9f2-Paper.pdf)
@@ -29,6 +30,7 @@
 - Dynamic Grained Encoder for Vision Transformers [`paper`](https://openreview.net/pdf?id=gnAIV-EKw2)
 - Efficient Training of Visual Transformers with Small Datasets [`paper`](https://openreview.net/pdf?id=SCN8UaetXx)
 - Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition [`paper`](https://papers.nips.cc/paper/2021/file/64517d8435994992e682b3e4aa0a0661-Paper.pdf)
+- All Tokens Matter: Token Labeling for Training Better Vision Transformers[`paper`](https://papers.nips.cc/paper/2021/file/9a49a25d845a483fae4be7e341368e36-Paper.pdf)
 
 # Face Aging
 - Continuous Face Aging via Self-estimated Residual Age Embedding[`paper`](https://arxiv.org/pdf/2105.00020.pdf)
