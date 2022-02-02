@@ -37,13 +37,11 @@
 - How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation[`paper`](http://proceedings.mlr.press/v139/akbari21a/akbari21a.pdf)
 - Delving into Deep Imbalanced Regression[`paper`](http://proceedings.mlr.press/v139/yang21m/yang21m.pdf)
 - Self-Paced Deep Regression Forests with Consideration on Ranking Fairness [`paper`](https://arxiv.org/pdf/2112.06455.pdf)
-
+- Ranking [`paper code`](https://paperswithcode.com/paper/consistent-rank-logits-for-ordinal-regression)
+- 
 # Others
 -What social media told us in the time of COVID-19: a scoping review[`paper`](https://www.thelancet.com/action/showPdf?pii=S2589-7500%2820%2930315-0)
 -Partial success in closing the gap between human and machine vision [`paper`](https://openreview.net/pdf?id=QkljT4mrfs)
-
-# Face aging
-- Ranking [`paper code`](https://paperswithcode.com/paper/consistent-rank-logits-for-ordinal-regression)
 
 # Brain aging
 - Voxel-level Importance Maps for Interpretable Brain Age Estimation [`paper`](https://arxiv.org/pdf/2108.05388.pdf)
