@@ -20,7 +20,7 @@
 - R-Drop: Regularized Dropout for Neural Networks
 - Attention Bottlenecks for Multimodal Fusion [`paper`](https://arxiv.org/pdf/2107.00135.pdf)
 - Perceptual Score: What Data Modalities Does Your Model Perceive?[`paper`](https://papers.nips.cc/paper/2021/file/b51a15f382ac914391a58850ab343b00-Paper.pdf)
-
+- RELATIONAL MULTI-TASK LEARNING: MODELING RELATIONS BETWEEN DATA AND TASKS [`paper`](https://openreview.net/pdf?id=8Py-W8lSUgy)
 # Transformer
 - DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification [`paper`](https://papers.nips.cc/paper/2021/file/747d3443e319a22747fbb873e8b2f9f2-Paper.pdf)
 - Glance-and-Gaze Vision Transformer [`paper`](https://papers.nips.cc/paper/2021/file/6c524f9d5d7027454a783c841250ba71-Paper.pdf)
