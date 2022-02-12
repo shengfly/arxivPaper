@@ -51,3 +51,5 @@
 
 # segmentation
 - SCS-Net: A Scale and Context Sensitive Network for Retinal Vessel Segmentation
+# Others
+- Propagating Uncertainty Across Cascaded Medical Imaging Tasks for Improved Deep Learning Inference 
