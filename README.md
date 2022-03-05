@@ -56,3 +56,8 @@
 - SCS-Net: A Scale and Context Sensitive Network for Retinal Vessel Segmentation
 # Others
 - Propagating Uncertainty Across Cascaded Medical Imaging Tasks for Improved Deep Learning Inference 
+
+# Inspired
+- An End-to-End Transformer Model for Crowd Localization
+
+
