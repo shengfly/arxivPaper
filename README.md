@@ -62,6 +62,8 @@
 
 # segmentation
 - SCS-Net: A Scale and Context Sensitive Network for Retinal Vessel Segmentation
+- Global-and-Local Collaborative Learning for Co-Salient Object Detection [`paper`](https://arxiv.org/pdf/2204.08917.pdf)
+
 # Others
 - Propagating Uncertainty Across Cascaded Medical Imaging Tasks for Improved Deep Learning Inference 
 
