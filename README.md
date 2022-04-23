@@ -77,6 +77,7 @@
 - Mean-Variance Loss for Deep Age Estimation from a Face [`paper`](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pan_Mean-Variance_Loss_for_CVPR_2018_paper.pdf)[`github`](https://github.com/Herosan163/AgeEstimation)
 - PML: Progressive Margin Loss for Long-tailed Age Classification [`paper`](https://arxiv.org/pdf/2103.02140v1.pdf)
 - A Flatter Loss for Bias Mitigation in Cross-dataset Facial Age Estimation [`paper`](https://arxiv.org/pdf/2010.10368.pdf)
+- Adaptive Mean-Residue Loss for Robust Facial Age Estimation [`paper`](https://arxiv.org/pdf/2203.17156v1.pdf)
 
 reference:
 
