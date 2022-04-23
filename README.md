@@ -80,3 +80,4 @@
 reference:
 
 - Adaptive Variance Based Label Distribution Learning For Facial Age Estimation [`paper`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680375.pdf)
+- Distilling Ordinal Relation and Dark Knowledge for Facial Age Estimation [`paper`](https://www.southampton.ac.uk/~sqc/listP/TNLS2021-Jul.pdf)
