@@ -75,3 +75,7 @@
 
 # Training loss
 - Mean-Variance Loss for Deep Age Estimation from a Face [`paper`](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pan_Mean-Variance_Loss_for_CVPR_2018_paper.pdf)[`github`](https://github.com/Herosan163/AgeEstimation)
+
+reference:
+
+- Adaptive Variance Based Label Distribution Learning For Facial Age Estimation [`paper`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680375.pdf)
