@@ -79,6 +79,7 @@
 - A Flatter Loss for Bias Mitigation in Cross-dataset Facial Age Estimation [`paper`](https://arxiv.org/pdf/2010.10368.pdf)
 - Adaptive Mean-Residue Loss for Robust Facial Age Estimation [`paper`](https://arxiv.org/pdf/2203.17156v1.pdf)
 - Balanced MSE for Imbalanced Visual Regression [`paper`](https://arxiv.org/pdf/2203.16427.pdf)[`github`](https://github.com/jiawei-ren/BalancedMSE)
+- A Novel Ground Metric for Optimal Transport-Based Chronological Age Estimation
 
 reference:
 
