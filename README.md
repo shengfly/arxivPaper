@@ -72,3 +72,6 @@
 
 # Nature
 - Brain charts for the human lifespan [`paper`](https://www.nature.com/articles/s41586-022-04554-y)[`response`](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-022-04554-y/MediaObjects/41586_2022_4554_MOESM11_ESM.pdf)
+
+# Training loss
+- Mean-Variance Loss for Deep Age Estimation from a Face [`paper`](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pan_Mean-Variance_Loss_for_CVPR_2018_paper.pdf)[`github`](https://github.com/Herosan163/AgeEstimation)
