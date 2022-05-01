@@ -81,7 +81,7 @@
 - Balanced MSE for Imbalanced Visual Regression [`paper`](https://arxiv.org/pdf/2203.16427.pdf)[`github`](https://github.com/jiawei-ren/BalancedMSE)
 - A Novel Ground Metric for Optimal Transport-Based Chronological Age Estimation
 - Unimodal-Concentrated Loss: Fully Adaptive Label Distribution Learning for Ordinal Regression [`paper`](https://arxiv.org/pdf/2204.00309v1.pdf)
-- 
+- A General and Adaptive Robust Loss Function [`paper`](https://arxiv.org/pdf/1701.03077.pdf)
 reference:
 
 - Adaptive Variance Based Label Distribution Learning For Facial Age Estimation [`paper`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680375.pdf)
