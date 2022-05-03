@@ -86,6 +86,7 @@ reference:
 
 - Adaptive Variance Based Label Distribution Learning For Facial Age Estimation [`paper`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680375.pdf)
 - Distilling Ordinal Relation and Dark Knowledge for Facial Age Estimation [`paper`](https://www.southampton.ac.uk/~sqc/listP/TNLS2021-Jul.pdf)
-
+- A General and Adaptive Robust Loss Function [`paper`](https://arxiv.org/pdf/1701.03077.pdf)
+- 
 # Neuroscience
 - The sexual brain, genes, and cognition: A machine-predicted brain sex score explains individual differences in cognitive intelligence and genetic influence in young children [`paper`](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25888)
