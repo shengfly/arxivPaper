@@ -91,3 +91,4 @@ reference:
 # Neuroscience
 - The sexual brain, genes, and cognition: A machine-predicted brain sex score explains individual differences in cognitive intelligence and genetic influence in young children [`paper`](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25888)
 - Neural Regression, Representational Similarity, Model Zoology & Neural Taskonomy at Scale in Rodent Visual Cortex [`paper`](https://www.biorxiv.org/content/10.1101/2021.06.18.448431v3.full.pdf)
+- Linking brain maturation and puberty during early adolescence using longitudinal brain age prediction in the ABCD cohort 
