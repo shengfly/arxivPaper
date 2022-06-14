@@ -44,7 +44,7 @@
 - Continuous Face Aging via Self-estimated Residual Age Embedding[`paper`](https://arxiv.org/pdf/2105.00020.pdf)
 - How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation[`paper`](http://proceedings.mlr.press/v139/akbari21a/akbari21a.pdf)
 - Delving into Deep Imbalanced Regression[`paper`](http://proceedings.mlr.press/v139/yang21m/yang21m.pdf)
-- RankSim: Ranking Similarity Regularization for Deep Imbalanced Regression [`paper`](https://arxiv.org/pdf/2205.15236.pdf)
+- RankSim: Ranking Similarity Regularization for Deep Imbalanced Regression [`paper`](https://arxiv.org/pdf/2205.15236.pdf)[`code`](https://github.com/BorealisAI/ranksim-imbalanced-regression)
 - Self-Paced Deep Regression Forests with Consideration on Ranking Fairness [`paper`](https://arxiv.org/pdf/2112.06455.pdf)
 - Ranking [`paper code`](https://paperswithcode.com/paper/consistent-rank-logits-for-ordinal-regression)
 - Learning Probabilistic Ordinal Embeddings for Uncertainty-Aware Regression [`paper`](https://arxiv.org/pdf/2103.13629.pdf)[`github`](https://github.com/Li-Wanhua/POEs)
