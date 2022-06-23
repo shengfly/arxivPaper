@@ -94,3 +94,4 @@ reference:
 - Neural Regression, Representational Similarity, Model Zoology & Neural Taskonomy at Scale in Rodent Visual Cortex [`paper`](https://www.biorxiv.org/content/10.1101/2021.06.18.448431v3.full.pdf)
 - Linking brain maturation and puberty during early adolescence using longitudinal brain age prediction in the ABCD cohort 
 - Machine learning generalizability across healthcare settings: insights from multi-site COVID-19 screening[`paper`](https://www.nature.com/articles/s41746-022-00614-9.pdf)
+- Distributed learning for heterogeneous clinical data with application to integrating COVID-19 data across 230 sites [`paper`](https://www.nature.com/articles/s41746-022-00615-8.pdf)
