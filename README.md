@@ -41,7 +41,7 @@
 - MetaFormer : A Unified Meta Framework for Fine-Grained Recognition[`paper`](https://arxiv.org/pdf/2203.02751.pdf)[`github`](https://github.com/dqshuai/MetaFormer)
 - Coarse-to-Fine Vision Transformer [`paper`](https://arxiv.org/pdf/2203.03821.pdf)[`github`](https://github.com/ChenMnZ/CF-ViT/blob/53ad1366f287c9a6488a5f237ad38a63b9f1ed0f/lvvit/models/lvvit.py#L33)
 - HINT: Hierarchical Neuron Concept Explainer[`paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_HINT_Hierarchical_Neuron_Concept_Explainer_CVPR_2022_paper.pdf)
-
+- Single Model Uncertainty Estimation via Stochastic Data Centering
 # Face Aging
 - Continuous Face Aging via Self-estimated Residual Age Embedding[`paper`](https://arxiv.org/pdf/2105.00020.pdf)
 - How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation[`paper`](http://proceedings.mlr.press/v139/akbari21a/akbari21a.pdf)
