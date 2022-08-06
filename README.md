@@ -66,6 +66,7 @@
 # segmentation
 - SCS-Net: A Scale and Context Sensitive Network for Retinal Vessel Segmentation
 - Global-and-Local Collaborative Learning for Co-Salient Object Detection [`paper`](https://arxiv.org/pdf/2204.08917.pdf)
+- Alpha-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression
 
 # Others
 - Propagating Uncertainty Across Cascaded Medical Imaging Tasks for Improved Deep Learning Inference 
