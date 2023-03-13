@@ -73,7 +73,7 @@
 
 # Inspired
 - An End-to-End Transformer Model for Crowd Localization
--Understanding and Unifying Fourteen Attribution Methods with [`paper`](https://arxiv.org/pdf/2303.01506.pdf)
+- Understanding and Unifying Fourteen Attribution Methods with [`paper`](https://arxiv.org/pdf/2303.01506.pdf)
 
 # Nature
 - Brain charts for the human lifespan [`paper`](https://www.nature.com/articles/s41586-022-04554-y)[`response`](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-022-04554-y/MediaObjects/41586_2022_4554_MOESM11_ESM.pdf)
