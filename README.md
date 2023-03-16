@@ -28,6 +28,7 @@
 - OLO: Vision Outlooker for Visual Recognition [`paper`](https://arxiv.org/pdf/2106.13112.pdf?ref=https://codemonkey.link)
 - Estimating Example Difficulty using Variance of Gradients [`paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Agarwal_Estimating_Example_Difficulty_Using_Variance_of_Gradients_CVPR_2022_paper.pdf)
 # Transformer
+- DeepMIM: Deep Supervision for Masked Image Modeling[`paper`](https://arxiv.org/pdf/2303.08817.pdf)
 - DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification [`paper`](https://papers.nips.cc/paper/2021/file/747d3443e319a22747fbb873e8b2f9f2-Paper.pdf)
 - Glance-and-Gaze Vision Transformer [`paper`](https://papers.nips.cc/paper/2021/file/6c524f9d5d7027454a783c841250ba71-Paper.pdf)
 - ResT: An Efficient Transformer for Visual Recognition[`paper`](https://papers.nips.cc/paper/2021/file/82c2559140b95ccda9c6ca4a8b981f1e-Paper.pdf)
