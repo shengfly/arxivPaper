@@ -1,4 +1,5 @@
 # arxiv Interested Paper
+- Why is the winner the best? [`paper`](https://arxiv.org/pdf/2303.17719.pdf)
 - Is one annotation enough? [`paper`](https://arxiv.org/pdf/2207.06214.pdf)
 - Is Medical Chest X-ray Data Anonymous? [`paper`](https://arxiv.org/pdf/2103.08562.pdf)
 - Reading Race: AI Recognises Patient's Racial Identity In Medical Images [`paper`](https://arxiv.org/pdf/2107.10356.pdf)
