@@ -1,4 +1,5 @@
 # arxiv Interested Paper
+- Segment Anything [`paper`](https://arxiv.org/pdf/2304.02643.pdf)
 - MultiTalent: A Multi-Dataset Approach to Medical Image Segmentation [`paper`](https://arxiv.org/pdf/2303.14444v1.pdf)
 - Why is the winner the best? [`paper`](https://arxiv.org/pdf/2303.17719.pdf)
 - Is one annotation enough? [`paper`](https://arxiv.org/pdf/2207.06214.pdf)
