@@ -1,4 +1,5 @@
 # arxiv Interested Paper
+- DeepBreath—automated detection of respiratory pathology from lung auscultation in 572 pediatric outpatients across 5 countries [`paper`](https://www.nature.com/articles/s41746-023-00838-3)
 - How Reliable is Your Regression Model’s Uncertainty Under Real-World Distribution Shifts? [`paper`](https://arxiv.org/pdf/2302.03679.pdf)
 - Segment Anything [`paper`](https://arxiv.org/pdf/2304.02643.pdf)
 - MultiTalent: A Multi-Dataset Approach to Medical Image Segmentation [`paper`](https://arxiv.org/pdf/2303.14444v1.pdf)
