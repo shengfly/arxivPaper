@@ -1,4 +1,5 @@
 # arxiv Interested Paper
+- SegDiff: Image Segmentation with Diffusion Probabilistic Models [`paper`](https://arxiv.org/abs/2112.00390)[`github`](https://github.com/tomeramit/SegDiff/tree/main)
 - DFormer: Diffusion-guided Transformer for Universal Image Segmentation [`paper`](https://arxiv.org/pdf/2306.03437v1.pdf) [`gtihub`](https://github.com/cp3wan/DFormer)
 - DeepBreath—automated detection of respiratory pathology from lung auscultation in 572 pediatric outpatients across 5 countries [`paper`](https://www.nature.com/articles/s41746-023-00838-3)
 - How Reliable is Your Regression Model’s Uncertainty Under Real-World Distribution Shifts? [`paper`](https://arxiv.org/pdf/2302.03679.pdf)
